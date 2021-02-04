@@ -1,5 +1,12 @@
 # graphql-tools
 
+## 7.0.3
+
+### Patch Changes
+
+- Updated dependencies [cab808bf]
+  - @graphql-tools/mock@8.0.0
+
 ## 7.0.2
 
 ### Patch Changes
